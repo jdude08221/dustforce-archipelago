@@ -1,0 +1,54 @@
+Archipelago Version 0.6.7  -  Seed: 87332573437396497672
+
+Filling Algorithm:               balanced
+Players:                         1
+Plando Options:                  bosses
+Game:                            APQuest
+Location Count:                  6
+Progression Balancing:           50
+Accessibility:                   Full
+Local Items:                     
+Non-local Items:                 
+Start Inventory:                 
+Start Hints:                     
+Start Location Hints:            
+Excluded Locations:              
+Priority Locations:              
+Item Links:                      
+Plando Items:                    
+Hard Mode:                       No
+Hammer:                          No
+Extra Starting Chest:            No
+Start With One Confetti Cannon:  No
+Trap Chance:                     0
+Confetti Explosiveness:          3
+Player Sprite:                   Human
+
+
+Locations:
+
+Bottom Left Chest: Sword
+Bottom Right Room Left Chest: Health Upgrade
+Bottom Right Room Right Chest: Confetti Cannon
+Top Left Room Chest: Health Upgrade
+Right Room Enemy Drop: Shield
+Top Middle Chest: Key
+Top Left Room Button: Top Left Room Button Pressed
+Final Boss Defeated: Victory
+
+Playthrough:
+
+0: {
+
+}
+1: {
+  Bottom Left Chest: Sword
+  Top Middle Chest: Key
+}
+2: {
+  Right Room Enemy Drop: Shield
+  Top Left Room Button: Top Left Room Button Pressed
+}
+3: {
+  Final Boss Defeated: Victory
+}
