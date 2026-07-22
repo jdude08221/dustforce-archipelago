@@ -1,5 +1,5 @@
 # Note
-This is a VERY WiP archipelago setup. It basically is non funcitonal, however, it is able to run and give you keys for a couple of levels. rando/Archipelago directory is just the archipelago repo along with dustforce updates.
+This is a VERY WiP archipelago setup. It basically is non funcitonal, however, it is able to run and give you keys for a couple of levels. rando/Archipelago directory is just the archipelago repo along with dustforce updates. You also should pull the lib folder from C's repo here: https://github.com/cmann1/DustScripts and place it in the script_src dir, otherwise the dustforce plugin wont compile. It is possible I have modifications to that lib locally, so I guess if it doesnt compile let me know.
 
 # Dustforce Setup:
 - Put the archipelago folder into your `.../Dustforce/user/script_src` folder
