@@ -1,5 +1,5 @@
 # Note
-This is a VERY WiP archipelago setup. It basically is non funcitonal, however, it is able to run and give you keys for a couple of levels.
+This is a VERY WiP archipelago setup. It basically is non funcitonal, however, it is able to run and give you keys for a couple of levels. rando/Archipelago directory is just the archipelago repo along with dustforce updates.
 
 # Dustforce Setup:
 - Put the archipelago folder into your `.../Dustforce/user/script_src` folder
